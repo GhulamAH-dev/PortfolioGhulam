@@ -2,7 +2,7 @@
 
 Personal portfolio website with bilingual support (English/Japanese), project showcase, project details, and a contact form.
 
-Live Demo: https://portofolioghulam.vercel.app/
+Live Demo: https://portfolio-ghulam.vercel.app
 
 ---
 
@@ -63,7 +63,7 @@ They will be accessible at:
 
 英語／日本語の二言語対応、制作物の紹介、プロジェクト詳細、そしてお問い合わせフォームを備えた個人ポートフォリオサイトです。
 
-Live Demo: https://portofolioghulam.vercel.app/
+Live Demo: https://portfolio-ghulam.vercel.app
 
 ---
 
